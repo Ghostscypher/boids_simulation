@@ -15,7 +15,12 @@ function keyPressed(){
     
     // Adding key interaction
     // If p is pressed, pause the simulation
-    if (key === 'p' && key_pressed.p) {
+    // Check if p is in the key_pressed object
+    if (!key_pressed.hasOwnProperty('p')) {
+        key_pressed.p = true;
+    }
+
+    if (key === 'p' && (! key_pressed.hasOwnProperty('p') || key_pressed.p)) {
         noLoop();
         key_pressed.p = false;
     } else  if (key === 'p' && !key_pressed.p) {
