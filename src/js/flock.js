@@ -13,5 +13,9 @@ class Flock {
     addBoid(b) {
         this.boids.push(b);
     }
+    
+    clearBoids() {
+        this.boids = [];
+    }
 
 }

@@ -8,7 +8,7 @@ This is a simple boids simulation implemented in P5 JS and HTML. The simulation 
 
 ## Installation
 
-To run the simulation, simply clone the repository and open the `index.html` file in your browser. Alternatively, you can visit the [GitHub Pages](TODO:fill this link) for this repository.
+To run the simulation, simply clone the repository and open the `index.html` file in your browser. Alternatively, you can visit the [GitHub Pages](ttps://ghostscypher.github.io/boids_simulation/src/index.html) for this repository.
 
 ## Understanding the Simulation
 
@@ -16,9 +16,16 @@ The simulation is implemented in P5 JS and HTML. The simulation is contained in 
 
 ## Using the Simulation
 
-The simulation is very simple to use. The simulation will start automatically when the webpage is loaded. The simulation can be paused by pressing the `p` key. The simulation can be resumed by pressing the `p` key again. The simulation can be reset by pressing the `r` key. The simulation can be restarted by pressing the `s` key. The simulation can be sped up by pressing the `+` key. The simulation can be slowed down by pressing the `-` key.
+The simulation is very simple to use. The simulation will start automatically when the webpage is loaded.
 
-<iframe src="TODO:fill this link" title="Boids Simulation" width="100%" height="500px"></iframe>
+1. The simulation can be paused by pressing the `p` key. The simulation can be resumed by pressing the `p` key again.
+2. The simulation can be reset by pressing the `r` key. The simulation can be sped up by pressing the `+` key.
+3. The simulation can be slowed down by pressing the `-` key.
+4. If `c` is pressed, the simulation will be cleared, to restart press `r`.
+5. If `a` is pressed then 1 boid is added to the simulation.
+6. If `d` is pressed then 1 boid is removed from the simulation.
+
+<iframe src="https://ghostscypher.github.io/boids_simulation/src/index.html" title="Boids Simulation" width="100%" height="500px"></iframe>
 
 ## References
 

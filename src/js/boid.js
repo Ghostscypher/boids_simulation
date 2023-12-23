@@ -6,7 +6,6 @@ class Boid {
 
         this.r = 4.0;
         this.maxforce = 0.05;
-        this.maxspeed = 1;
 
         this.velocity = p5.Vector.random2D();
         this.velocity.setMag(random(2, 4));
