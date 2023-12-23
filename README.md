@@ -8,7 +8,7 @@ This is a simple boids simulation implemented in P5 JS and HTML. The simulation 
 
 ## Installation
 
-To run the simulation, simply clone the repository and open the `index.html` file in your browser. Alternatively, you can visit the [GitHub Pages](ttps://ghostscypher.github.io/boids_simulation/src/index.html) for this repository.
+To run the simulation, simply clone the repository and open the `index.html` file in your browser. Alternatively, you can visit the [GitHub Pages](https://ghostscypher.github.io/boids_simulation/src/index.html) for this repository.
 
 ## Understanding the Simulation
 
