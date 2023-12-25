@@ -65,7 +65,7 @@ jobs:
           final_height: 800
 
           # The number of frames to capture (the more frames, the longer the gif)
-          number_of_frames: 800
+          number_of_frames: 2000
 
           # Do not scroll the page
           no_scoll: true
