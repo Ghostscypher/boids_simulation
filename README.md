@@ -25,7 +25,7 @@ The simulation is very simple to use. The simulation will start automatically wh
 5. If `a` is pressed then 1 boid is added to the simulation.
 6. If `d` is pressed then 1 boid is removed from the simulation.
 
-<iframe src="https://ghostscypher.github.io/boids_simulation/src/index.html" title="Boids Simulation" width="100%" height="500px"></iframe>
+<img src="https://raw.githubusercontent.com/ghostscypher/smart_rocket/output/demo.gif" width="800" height="800" alt="Quadtree GIF" />
 
 ## References
 
